@@ -1,1 +1,1 @@
-This folder contains the slides and the jupyter notebook of the tutorial on deep neural networks and convolutional neural networks with keras.
+This folder contains the slides (`deep_cnn.pdf`), the jupyter notebook of the tutorial on deep neural (`tutorial.ipynb`) networks and convolutional neural networks with keras and a notebook with the numerical results of the tutorial (`Deep_CNN.ipynb`)
